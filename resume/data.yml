@@ -16,7 +16,7 @@ experience:
   position: DevOps Developer, Applications Analyst
   timeperiod: September 2013 +
   description: Working in a small team utilizing agile methodologies to make one of the worlds largest lecture recording systems. Primarily Responsible for deployment, maintainance, new features and improvements to a multi stream python-based capture software platform.
-  website: https://example.com
+  website: https://www.mypodcasts.manchester.ac.uk/
 
 - company: The Univesity of Manchester
   position: IT Support Technician
@@ -82,7 +82,7 @@ hobbies:
 
 contributions:
 - name: Opencast
-  description: Video processing and distribution platform for education. regularly host community meetings
+  description: Video processing and distribution platform for education. I regularly organise and host international community meetings online
   url: https://github.com/opencast
 
 contact:
