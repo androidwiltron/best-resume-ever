@@ -3,8 +3,7 @@ name:
   first: Andrew
   middle: James
   last: Wilson
-about: A problem solver. versed in DevOps working in a team and solo I \
-have experience with project work. I’m currently actively contributing to several projects within the university. these include aspects of improving service quality across the university and providing technical expertise to support bespoke software as part of a larger operating system roll-out at the faculty level. I believe I thrive in a project based environment and often take leadership, make key decisions and can also work well with a team. \
+about: A problem solver. versed in DevOps working in a team and solo I have experience with project work. I’m currently actively contributing to several projects within the university. these include aspects of improving service quality across the university and providing technical expertise to support bespoke software as part of a larger operating system roll-out at the faculty level. I believe I thrive in a project based environment and often take leadership, make key decisions and can also work well with a team. \
 
 position: Software Developer
 
@@ -16,18 +15,13 @@ experience:
 - company: The University of Manchester
   position: DevOps Developer, Applications Analyst
   timeperiod: September 2013 +
-  description: Working in a small team utilizing agile methodologies to make one of the \
-worlds largest lecture recording systems. Primarily Responsible for deployment, maintainance, \
-new features and improvements to a multi stream python-based capture software platform. \
+  description: Working in a small team utilizing agile methodologies to make one of the worlds largest lecture recording systems. Primarily Responsible for deployment, maintainance, new features and improvements to a multi stream python-based capture software platform.
   website: https://example.com
 
 - company: The Univesity of Manchester
   position: IT Support Technician
   timeperiod: September 2011 - September 2013
-  description: Working in a demanding higher Education Research enviroment \
-providing specialist support to a wide range of researchers and disciplines \
-Supporting web based and scientific software and scripts. \
-requirements gathering and customising or repurposing software for research use \ 
+  description: Working in a demanding higher Education Research enviroment providing specialist support to a wide range of researchers and disciplines Supporting web based and scientific software and scripts. Requirements gathering and customising or repurposing software for research use
 
 - company: The University of Manchester
   position: Support Services Technician
@@ -37,8 +31,7 @@ requirements gathering and customising or repurposing software for research use 
 - company: 3M Scott Safety (tyco)
   position: QA Test Analyst
   timeperiod: June 2007 - March 2008
-  description: QA tester, Gas tester, analytical chemist and lab technician. Worked on supporting \
-the initial roll out of a next generation safety product.
+  description: QA tester, Gas tester, analytical chemist and lab technician. Worked on supporting the initial roll out of a next generation safety product.
 
 education:
 - degree: Bachelor of Science, Biochemistry
@@ -64,8 +57,7 @@ skills:
   level: 99
 - name: Java
   level: 50
-knowledge: Experiance working with software defined video and audio and streaming technologies \
-working towards becomings an AWS Certified Cloud Practitioner
+knowledge: Experiance working with software defined video and audio and streaming technologies working towards becomings an AWS Certified Cloud Practitioner
 
 projects:
 - name: Galicaster
@@ -80,8 +72,7 @@ projects:
 
 - name: Lecturesight
   platform: Java, opencl
-  description: Contributor. realtime tracking of subjects using machine vision in a theatre domain \
-Paper - https://ieeexplore.ieee.org/document/7442401
+  description: Contributor. realtime tracking of subjects using machine vision in a theatre domain. Paper - https://ieeexplore.ieee.org/document/7442401
   url: https://opencast.jira.com/wiki/spaces/LECTURESIGHT/overview
 
 hobbies:
