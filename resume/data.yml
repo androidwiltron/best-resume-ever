@@ -3,8 +3,7 @@ name:
   first: Andrew
   middle: James
   last: Wilson
-about: A problem solver. versed in DevOps working in a team and solo I have experience with project work. I’m currently actively contributing to several projects within the university. these include aspects of improving service quality across the university and providing technical expertise to support bespoke software as part of a larger operating system roll-out at the faculty level. I believe I thrive in a project based environment and often take leadership, make key decisions and can also work well with a team. \
-
+about: A problem solver well suited to the culture DevOps and Agile methodologies brings. Working in a small team in HE to write, build and deploy lecture capture and associated technologies to the University of Manchester. I ❤️ change and disruptive new tech and will actively seek new things to try.
 position: Software Developer
 
 birth:
@@ -15,7 +14,7 @@ experience:
 - company: The University of Manchester
   position: DevOps Developer, Applications Analyst
   timeperiod: September 2013 +
-  description: Working in a small team utilizing agile methodologies to make one of the worlds largest lecture recording systems. Primarily Responsible for deployment, maintainance, new features and improvements to a multi stream python-based capture software platform.
+  description: Working in a small team utilizing agile methodologies to make one of the worlds largest lecture recording systems written in java. I lead the deployment, maintainance, new features and improvements to a multi stream python-based capture software platform. Im also head up a node-based clinical skills dashboard built in AWS ECS.
   website: https://www.mypodcasts.manchester.ac.uk/
 
 - company: The Univesity of Manchester
@@ -54,10 +53,12 @@ skills:
 - name: AWS ECS
   level: 80
 - name: Docker
-  level: 99
+  level: 85
 - name: Java
   level: 50
-knowledge: Experiance working with software defined video and audio and streaming technologies working towards becomings an AWS Certified Cloud Practitioner
+- name: Rust
+  level: 40
+knowledge: Experiance working with software defined video and audio and streaming technologies working towards becoming an AWS Certified Cloud Practitioner
 
 projects:
 - name: Galicaster
@@ -67,7 +68,7 @@ projects:
 
 - name: Peakaboo
   platform: Meteor.js
-  description: Commiter to peakaboo, a dashboard used for large scale machine monitoring 
+  description: Commiter to peakaboo, a dashboard used for large scale machine monitoring
   url: https://github.com/SussexLearningSystems/peakaboo
 
 - name: Lecturesight
@@ -86,9 +87,9 @@ contributions:
   url: https://github.com/opencast
 
 contact:
-  email: email
-  phone: phone
-  street: street
+  email: andrew.j.wilson7@gmail.com
+  phone: 07719367399 07789031383
+  street: 38 Entwisle Street
   city: Manchester, UK
   website: https://twitter.com/android_wiltron
   github: https://github.com/androidwiltron
